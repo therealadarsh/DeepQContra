@@ -1,2 +1,3 @@
-
-1) gym-contra
+```
+pip install gym-contra
+```
