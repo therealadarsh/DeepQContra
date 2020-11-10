@@ -5,8 +5,10 @@ This repository is about implementing the reinforcement learning algorithm Deep 
 ## Installation
 
 ### Installation Requirements
+We created an virtual environment to work with the project with all the libraries installed. To activate the virtual environment on python 3.6,
+The virtual environment is installed in folder /env that has all the supporting libraries installed.
 ```
-pip install gym-retro
+source env/bin/activate
 ```
 
 ### Usage
