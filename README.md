@@ -10,10 +10,10 @@ The virtual environment is installed in folder /env that has all the supporting 
 ```
 source env/bin/activate
 ```
-
-### Usage
+### To run random Agent using Gym-Retro
 
 ```
+pip install gym-retro
 python -m randomAgent --game ContraForce-Nes                                                                                              
 
 ```
